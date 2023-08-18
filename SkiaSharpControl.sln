@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkiaSharpControl", "SkiaSharpControl\SkiaSharpControl.csproj", "{9ECAC994-1779-42A8-AEDA-86816BB00A36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ECAC994-1779-42A8-AEDA-86816BB00A36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ECAC994-1779-42A8-AEDA-86816BB00A36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ECAC994-1779-42A8-AEDA-86816BB00A36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ECAC994-1779-42A8-AEDA-86816BB00A36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD9660F3-2DED-43E9-8162-B85C3CD2B1D6}
+	EndGlobalSection
+EndGlobal
